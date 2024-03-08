@@ -1,0 +1,7 @@
+Librarys to install:
+
+- pip install tkinter
+- pip install customtkinter
+- pip install pillow
+
+Python Version: 3.11.8 , 64 Bit
